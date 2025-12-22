@@ -7,3 +7,4 @@ Implementação e solução de problemas diversos de otimização.
 ## PLI (Programação Linear Inteira)
 - [Socorro Aéreo](PLI/socorro_aereo.ipynb)
 - [Rainhas Xadrez](PLI/rainhas_xadrez.ipynb)
+- [Tarifas Hospedagem](PLI/tarifas_hospedagem.ipynb)
